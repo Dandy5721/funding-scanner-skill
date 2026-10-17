@@ -53,7 +53,6 @@ A project-level `.claude/skills/` directory works the same way. The skill name i
 
 ### Requirements
 
-- Claude Code with web search and web fetch available in the session
 - Python 3 with [`openpyxl`](https://pypi.org/project/openpyxl/) for the Excel tracker (`pip install openpyxl`)
 
 ## Usage
