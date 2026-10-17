@@ -1,6 +1,6 @@
 # funding-scanner
 
-A [Claude Code](https://claude.com/claude-code) skill that scans research funding sources for opportunities relevant to a specific researcher and turns the results into a ranked digest and a deadline tracker.
+A skill that scans research funding sources for opportunities relevant to a specific researcher and turns the results into a ranked digest and a deadline tracker.
 
 The skill works from the **user's own materials and answers**. It does not ship with, assume or reuse anyone's profile, institution or output location: before it searches, it asks who the scan is for, what it may read, the research focus, career stage and eligibility, preferences, institution and where to write the results.
 
